@@ -1,0 +1,12 @@
+#Intellij
+.settings/
+.idea/
+.cache
+*.iml
+*.iws
+#setuptools
+build
+dist
+*.egg-info
+#Logs
+logs
