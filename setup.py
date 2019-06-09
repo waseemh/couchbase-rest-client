@@ -19,7 +19,7 @@ setup(
     description=info['__description__'],
     long_description=textwrap.dedent(open('README.md', 'r').read()),
     install_requires=[
-                         'requests==2.14.2'
+                         'requests==2.20.0'
                      ],
     keywords=info['__keywords__'],
     classifiers=[
