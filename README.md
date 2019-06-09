@@ -4,7 +4,7 @@ A lightweight couchbase REST client for Python 3.4 and above.
 
 This library communicates with Couchbase REST API via HTTP, thus it is very easy to setup and does not require installing libcouchbase (C SDK) as in Couchbase Python SDK.
 
-Client implementation conforms to [https://docs.couchbase.com/server/5.1/rest-api/rest-intro.html](official REST API reference).
+Client implementation conforms to [official REST API reference](https://docs.couchbase.com/server/5.1/rest-api/rest-intro.html).
 
 Note that I follow the same recommendation given by Couchbase team that using the REST API for CRUD does not scale as well as SDKs and does not offer the same level of data protection.
 
